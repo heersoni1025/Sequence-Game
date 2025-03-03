@@ -1,6 +1,7 @@
 # Sequence-Game
 
 Description
+
 A fun and interactive word-guessing game where players decode words from number sequences. The game provides hints as number sequences, and the player must guess the correct word within three attempts.
 
 Features
